@@ -1,0 +1,16 @@
+{
+  "name": "datastructures",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A collection of basic data structures implemented in JavaScript - with comprehensive tests.",
+  "main": "",
+  "scripts": {
+    "test": "mocha dynamicarray/test.js"
+  },
+  "keywords": [],
+  "author": "Peter Lind",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^11.7.4"
+  }
+}
